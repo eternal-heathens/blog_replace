@@ -16,10 +16,10 @@ module.exports = {
   },
   themeConfig: {
     nav:[ // 导航栏配置
-      {text: '前端基础', link: '/accumulate/' },
+      {text: 'java基础', link: '/accumulate/' },
       {text: '算法题库', link: '/algorithm/'},
-      {text: '诗和远方', link: '/others/'},
-      {text: '微博', link: 'https://baidu.com'}      
+      {text: '其他', link: '/others/'},
+      {text: 'github', link: 'https://github.com/eternal-heathens'}      
     ],
     // sidebar:{
     //   '/accumulate/': [
